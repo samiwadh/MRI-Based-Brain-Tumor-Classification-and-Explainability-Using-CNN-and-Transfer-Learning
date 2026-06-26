@@ -52,3 +52,28 @@ Classes: Glioma, Meningioma, Pituitary, No Tumor
 ---
 
 ## Project Structure
+NeuroScanAI/
+
+├── data/
+
+├── notebooks/
+
+│   ├── 01_EDA.ipynb
+
+│   ├── 02_EfficientNet_Model.ipynb
+
+│   └── 03_GradCAM_Analysis.ipynb
+
+│
+
+├── src/
+
+├── reports/
+
+├── results/
+
+├── models/
+
+├── requirements.txt
+
+└── README.md
