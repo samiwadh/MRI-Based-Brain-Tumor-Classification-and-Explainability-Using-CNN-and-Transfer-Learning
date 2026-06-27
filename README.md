@@ -42,23 +42,7 @@ Classes: Glioma, Meningioma, Pituitary, No Tumor
 
 **Objective 4** — Conduct a systematic misclassification analysis: identify which class-pairs are confused most often and examine their Grad-CAM heatmaps for an explanation.
 
----
-## Project Structure
-```
-NeuroScanAI/
-├── data/
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_EfficientNet_Model.ipynb
-│   └── 03_GradCAM_Analysis.ipynb
-│
-├── src/
-├── reports/
-├── results/
-├── models/
-├── requirements.txt
-└── README.md
-```
+
 
 ---
 ## Methodology
